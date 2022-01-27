@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nom: MyString
+  description: MyString
+  dateD: 2022-01-26
+  dateF: 2022-01-26
+
+two:
+  nom: MyString
+  description: MyString
+  dateD: 2022-01-26
+  dateF: 2022-01-26
